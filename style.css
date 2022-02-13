@@ -1,0 +1,36 @@
+body {
+    font-size: 20px;
+    background-color: #86c3c7;
+    
+}
+header {
+    background-color: #8d8d9e;
+    padding: 10px;
+}
+nav {
+    padding: 10px;
+    background-color: rgb(128, 128, 136);
+    
+}
+nav a {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+    padding: 100px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 25px;
+    
+}
+footer {
+    background-color: rgb(159, 152, 170);
+    padding: 10px;
+}
+.st {
+    height: 350px;
+    width: 350px;
+}
