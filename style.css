@@ -49,3 +49,8 @@ footer {
     text-align: left;
 
 }
+.image {
+    width: 810px;
+    height: 450px;
+    align: center;
+}
